@@ -1,0 +1,21 @@
+
+icon= "units/human-peasants/peasant-idle-7.png"
+title= "Northern Rebirth with Overworld"
+
+version=1.0.4
+author= "Juhhyv, Original campaing by Taurus"
+
+description = "People of Dwarven doors has been enslaved for generations. But while orcs fight each other slaves give change to rebel. Help Talin to escape slavery and defeat both darkness hiding under Heart Mountains and Bloody Sword tribe
+Remade and most of characters are removed. You can choose what scenarios you play from 20 possible scenarios (expect 4 mandatory scenarios).
+
+unbalanced, 10 scenarios."
+
+type=campaign
+
+
+
+email= "juho.hyvattinen@gmail.com"
+
+[feedback]
+	topic_id=59908
+[/feedback]
