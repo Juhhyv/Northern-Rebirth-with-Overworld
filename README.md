@@ -7,7 +7,7 @@ Player can choose what scenarios you play from  20 possible scenarios (expect 4 
 
 Overall story:
 
-Bloody sword attack against Al'tar which allow slaves (including Talin and Zlex) to rebel. They escape to Knalga, but found dwarves under undead attack. Talin has 3 scenarios (which most include "helping dwarves") time to prepraire before meeting Malifor. After defeating Malifor Talin gathers allies against Bloody Sword. Allies will join last fight against Bloody Sword in Glamdarol.
+Bloody sword attack against Al'tar which allow slaves (including Talin and Zlex) to rebel. They escape to Knalga, but found dwarves under undead attack. Talin has 3 scenarios (which must include "helping dwarves") time to prepraire before meeting Malifor. After defeating Malifor Talin gathers allies against Bloody Sword. Allies will join last fight against Bloody Sword in Glamdarol.
 
 The allies in last fight, possible recruits and companions depen what scenarios player has played.
 
