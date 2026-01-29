@@ -12,3 +12,5 @@ Bloody sword attack against Al'tar which allow slaves (including Talin and Zlex)
 The allies in last fight, possible recruits and companions depen what scenarios player has played.
 
 Aim is to make this campaign mainline candidate in 1.21 development cycle. 
+
+Currently campaing on add-on server is better than this one in Github.
