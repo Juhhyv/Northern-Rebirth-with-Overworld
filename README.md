@@ -3,7 +3,7 @@ Wesnoth campaing Norther Rebirth with Overwordl development.
 
 People of Dwarven doors has been enslaved for generations. But while orcs fight each other slaves give change to rebel. Help Talin to escape slavery and defeat both darkness hiding under Heart Mountains and Bloody Sword tribe
 Remade and most of characters are removed.
-Player can choose what scenarios you play from  21 possible scenarios (expect 4 mandatory scenarios). Adding more scenarios is possible, but not priority.
+Player can choose what scenarios you play from  24 possible scenarios (expect 4 mandatory scenarios). Adding more scenarios is possible, but not priority.
 
 Overall story:
 
