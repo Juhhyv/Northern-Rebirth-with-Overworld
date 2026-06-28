@@ -13,4 +13,3 @@ The allies in last fight, possible recruits and companions depen what scenarios 
 
 Aim is to make this campaign mainline candidate in 1.21 development cycle. 
 
-Version on Githu is again outdated.
